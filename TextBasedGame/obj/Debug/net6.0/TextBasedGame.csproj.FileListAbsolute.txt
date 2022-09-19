@@ -1,0 +1,17 @@
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\bin\Debug\net6.0\TextBasedGame.exe
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\bin\Debug\net6.0\TextBasedGame.deps.json
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\bin\Debug\net6.0\TextBasedGame.runtimeconfig.json
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\bin\Debug\net6.0\TextBasedGame.dll
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\bin\Debug\net6.0\TextBasedGame.pdb
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\TextBasedGame.csproj.AssemblyReference.cache
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\TextBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\TextBasedGame.AssemblyInfoInputs.cache
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\TextBasedGame.AssemblyInfo.cs
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\TextBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\TextBasedGame.dll
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\refint\TextBasedGame.dll
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\TextBasedGame.pdb
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\TextBasedGame.genruntimeconfig.cache
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\ref\TextBasedGame.dll
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Breaky\source\repos\TextBasedGame\TextBasedGame\obj\Debug\net6.0\TextBasedGame.csproj.CopyComplete
